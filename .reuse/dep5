@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: XPRGC Úkol č.4
+Upstream-Contact: Ondřej Surý <ondrej@sury.org>
+Source: https://github.com/oerdnj/XPRGC-4
+
+Files: .clang-format
+       .gitignore
+       README.md
+       Makefile
+Copyright: Ondřej Surý
+License: WTFPL
